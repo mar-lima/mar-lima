@@ -1,15 +1,25 @@
+
+
 ## Fala Dev 
 
-<div>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mar-lima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-lima&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
-<br>
 
+
+<div align="center" margin='20 0'  margin='0 auto' >
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mar-lima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <br/>
+  <br/>
+  <hr/>
+  <br/>
+  <br/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-lima&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <br/>
+</div>
+<br> 
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
+  <br>
     <img align="center" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
