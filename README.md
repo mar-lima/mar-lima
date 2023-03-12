@@ -17,16 +17,20 @@
 </div>
 <br> 
 
-<div  align="center"> 
-  <div style="display: inline_block">
-  <br>
-    <img align="center" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   </div>
+ ###  Skills:
+ ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+ ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+ ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+ ![GitHub](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+ 
+ <br/>
+ 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/mar-lima/count.svg" /></p> 
+<br>
+</div>
    
    ![Snake animation](https://github.com/mar-lima/mar-lima/blob/output/github-contribution-grid-snake.svg)
